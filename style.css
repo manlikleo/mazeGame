@@ -24,17 +24,10 @@ body{
     align-items:center;
 }
 
-.header{
-    margin-top: 1rem;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 100%; 
+table td{
+    border:1px #000 solid;
 }
-
-.mazecontainer{
-    width: 600px;
+table{
+    width:800px;
     height:600px;
-    background-color:#000;
-    margin-top: 3rem;
 }
